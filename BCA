@@ -1,0 +1,24 @@
+Build a Local eCommerce Website Using XAMPP and WordPres
+1.    Download XAMPP:
+    -Visit the official XAMPP website and download the version for your operating system.
+    -Install and configure XAMPP on your PC.
+2.    Download WordPress:
+    -Go to the WordPress website and download the latest version.
+    -Extract the WordPress files into the htdocs folder of your XAMPP installation.
+3.    Set Up a Local Website:
+    -Start Apache and MySQL services using the XAMPP control panel.
+    -Use phpMyAdmin to create a database for your WordPress site.
+    -Install WordPress by visiting http://localhost/your-folder-name in your browser.
+    -Complete the installation process by setting up a site title and admin credentials.
+4.Build an eCommerce Website:
+   - Install the WooCommerce plugin from the WordPress dashboard.
+    -Configure WooCommerce with basic settings:
+        -Add a store name, currency, and location.
+        -Set up at least one payment method (example: "Cash on Delivery").
+    -Add at least 3 Categories and each category has 5 products to the store, including images, descriptions, prices, and categories.
+    Create the following pages:
+    Homepage showcasing featured products.
+    Shop Page listing all products.
+    Cart Page for customers to view selected items.
+    About Page for customers to view about company profile.
+    Contact Page with basic store information.
